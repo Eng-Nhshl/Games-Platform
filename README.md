@@ -157,7 +157,7 @@ query {
 ## 📁 Project Structure
 
 ```
-graphql-games-platform/
+Games-Platform/
 ├── index.js          # Server entry point
 ├── schema.js         # GraphQL type definitions
 ├── resolvers.js      # GraphQL resolvers
